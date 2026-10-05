@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div align="center"> 
+  <p>Número de visitantes</p> 
+  <img src="https:https://github.com/Yalideth-Sanchez-R/{USERNAME}/count.svg" alt="Número de visitantes" /> 
+</div>
+
+
+
 <!--
 **Yalideth-Sanchez-R/Yalideth-Sanchez-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
