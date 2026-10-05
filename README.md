@@ -2,8 +2,11 @@
 
 <div align="center"> 
   <p>Número de visitantes</p> 
-  <img src="https://profile-counter.glitch.me/{https://github.com/Yalideth-Sanchez-R}/count.svg" alt="Número de visitantes" /> 
-  <img src="https://github.com/{https://github.com/Yalideth-Sanchez-R}/{https://github.com/Yalideth-Sanchez-R}/blob/main/im-yalideth-apasionada-programadora-banner.svg" alt="Banner de un desarrollador sentado frente a un escritorio">
+  <img src="https://github.com/Yalideth-Sanchez-R/count.svg" alt="Número de visitantes" /> 
+</div>
+
+<div  
+  <img src="https://github.com/Yalideth-Sanchez-R/blob/main/im-yalideth-apasionada-programadora-banner.svg" alt="Banner de un desarrollador sentado frente a un escritorio">
 </div>
 
 <!--
