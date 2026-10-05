@@ -36,8 +36,10 @@
   <br>
   <div align="center">
       <a href="https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final">
-        <img src="https://raw.githubusercontent.com/Yalideth-Sanchez-R/Yalideth-Sánchez-R/main/img_alkewallet.JPG" alt="Alke Wallet" width="300" />
+        <img src="https://raw.githubusercontent.com/Yalideth-Sanchez-R/Yalideth-Sánchez-R/main/img_alkewallet.JPG" alt="Alke Wallet" width="200" />
       </a>
+    <h4><b>Proyecto Alke Wallet</b></h4>
+    <p>Billetera digital nativa para Android en Java y Kotlin, con persistencia de datos mediante Room.</p>
   </div>
 </details>
 
