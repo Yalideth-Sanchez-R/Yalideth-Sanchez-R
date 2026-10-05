@@ -29,17 +29,15 @@
 </p>
 <br>
 <!-------------------------->
-<div id="proyectos">
+<div id="proyectos"></div>
 
-<details><summarys><h3> 📂: Mis Repositorios </h3></summarys>
-
-----
-  <div>
-    <p align="center">
-      <a href="github.com/YYalideth-Sánchez-R/AlkeWallet_Modulo_6_Final">
-        <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" />
+<details>
+  <summary><h3> 📂: Mis Repositorios </h3></summary>
+  <br>
+  <div align="center">
+      <a href="github.com/Yalideth-Sánchez-R/AlkeWallet_Modulo_6_Final">
+        <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="300" />
       </a>
-    </p>
   </div>
 </details>
 
