@@ -43,18 +43,16 @@
   </div>
 </details>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <!-- Tarjeta 1: Estadísticas Generales en Tiempo Real -->
-  <a href="https://github.com/Yalideth-Sanchez-R" target="_blank">
-    <img src="https://github-readme-stats.vercel.app" alt="Estadísticas de GitHub de Yalideth" height="195" />
-  </a>
-  
-  <!-- Tarjeta 2: Lenguajes Más Usados (Versión Compacta) -->
-  <a href="https://github.com/Yalideth-Sanchez-R" target="_blank">
-    <img src="https://github-readme-stats.vercel.app" alt="Lenguajes más usados" height="195" />
-  </a>
+
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yalideth-Sanchez-R&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalideth-Sanchez-R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+
 </div>
 
 <!--- stats (end) -->
