@@ -37,7 +37,7 @@
     <td width="25%" align="center">
       <p align="center">
        <a href= "https://github.com/Yalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank"
-         <img align= "center" src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sanchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="100%"/>
+         <img align= "center" src="https://raw.githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sanchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="100%"/>
        </a>
       </p>      
     </td>
