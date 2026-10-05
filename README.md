@@ -39,7 +39,7 @@
         <img src="https://raw.githubusercontent.com/Yalideth-Sanchez-R/Yalideth-Sánchez-R/main/img_alkewallet.JPG" alt="Alke Wallet" width="200" />
       </a>
     <h4><b>Proyecto Alke Wallet</b></h4>
-    <p>Billetera digital nativa para Android en Java y Kotlin, con persistencia de datos local mediante Room.</p>
+    <p>Aplicación móvil de Billetera digital nativa para Android en Java y Kotlin, Android SDK, con persistencia de datos local mediante Room.</p>
   </div>
 </details>
 
