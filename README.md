@@ -36,14 +36,15 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <! -- <a src="https://[raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp](https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final)" /></a>
+     <a href= "https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final" target="_blank"
+       <img align= "center" src="https://github.com/Yalideth-Sanchez-R/Yalideth-Sanchez-R/blob/main/img_alkewallet.JPG" alt="Alke Wallet"/>
+       </a>
       </p>
-    <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-</table>
-  </div>
+    <p align="center">       
+   </td>
+  </tr>  
+ </table>
+</div>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
