@@ -41,7 +41,6 @@
   </div>
 </details>
 
-<h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
