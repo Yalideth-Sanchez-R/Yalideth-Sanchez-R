@@ -43,12 +43,6 @@
   </div>
 </details>
 
-<div align="left">
-  <a href="https://github.com/YYalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank">
-    <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="250">
-  </a>
-</div>
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
