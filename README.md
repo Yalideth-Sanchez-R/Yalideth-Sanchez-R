@@ -43,17 +43,14 @@
   </div>
 </details>
 
-##Estadísticas de GitHub 📊 
+<h2> Estadísticas de GitHub 📊</h2>
 
-<div align="center">
-
+<p align="center">
   <!-- Tarjeta de Estadísticas Generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yalideth-Sanchez-R&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-
   <!-- Tarjeta de Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalideth-Sanchez-R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-
-</div>
+</p>
 
 <!--- stats (end) -->
 
