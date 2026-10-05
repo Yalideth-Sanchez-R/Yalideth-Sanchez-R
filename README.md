@@ -36,8 +36,8 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
-       <a href= "https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final" target="_blank"
-         <img align= "center" src="https://github.com/Yalideth-Sanchez-R/Yalideth-Sanchez-  R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="100%"/>
+       <a href= "https://github.com/Yalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank"
+         <img align= "center" src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sanchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="100%"/>
        </a>
       </p>      
     </td>
