@@ -31,6 +31,18 @@
 <!-------------------------->
 <div id="proyectos">
 
+<details><summarys><h3> 📂: Mis Repositorios </h3></summarys>
+
+----
+  <div>
+    <p align="center">
+      <a href="github.com/YYalideth-Sánchez-R/AlkeWallet_Modulo_6_Final">
+        <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" />
+      </a>
+    </p>
+  </div>
+</details>
+
 <div align="left">
   <a href="https://github.com/YYalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank">
     <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="250">
