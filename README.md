@@ -13,7 +13,7 @@
 
 💻 Interesada en aprender sobre el desarrollo de aplicaciones móviles Android y mas atraida por el FrontEnd
 
-📝 He participado en diferentes proyectos como junior ☺️
+📝 Participante de diferentes proyectos como junior ☺️
 
 📫 Contacto: **yalidethsanchez@gmail.com**
 <!--Intro end-->
