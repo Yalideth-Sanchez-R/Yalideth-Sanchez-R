@@ -32,7 +32,7 @@
 <div id="proyectos"></div>
 
 <details>
-  <summary><h3> 📂: Mis Repositorios </h3></summary>
+  <summary><h2> 📂: Mis Repositorios </h2></summary>
   <br>
   <div align="center">
       <a href="https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final">
@@ -47,9 +47,9 @@
 
 <p align="center">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yalideth-Sanchez-R&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yalideth-Sanchez-R&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
   <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalideth-Sanchez-R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalideth-Sanchez-R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="48%"/>
 </p>
 
 <!--- stats (end) -->
