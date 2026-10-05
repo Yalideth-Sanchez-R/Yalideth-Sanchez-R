@@ -30,20 +30,12 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-  <tr border="none">
-    <td width="25%" align="center">
-      <p align="center">
-       <a href= "https://github.com/Yalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank"
-         <img align= "center" src="https://raw.githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sanchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="100%"/>
-       </a>
-      </p>      
-    </td>
-   </tr>  
-  </table>
- </div>
+<div align="left">
+  <a href="https://github.com/YYalideth-Sánchez-R/AlkeWallet_Modulo_6_Final" target="_blank">
+    <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="250">
+  </a>
+</div>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
@@ -76,10 +68,4 @@
 <!--- trophy (start) -->
 
 
-</p>        
-<!--- stats (end) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
