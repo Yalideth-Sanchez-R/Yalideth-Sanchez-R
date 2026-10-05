@@ -35,8 +35,8 @@
   <summary><h3> 📂: Mis Repositorios </h3></summary>
   <br>
   <div align="center">
-      <a href="github.com/Yalideth-Sánchez-R/AlkeWallet_Modulo_6_Final">
-        <img src="https://githubusercontent.com/Yalideth-Sánchez-R/Yalideth-Sánchez-R/principal/img_alkewallet.JPG" alt="Alke Wallet" width="300" />
+      <a href="https://github.com/Yalideth-Sanchez-R/AlkeWallet_Modulo_6_Final">
+        <img src="https://raw.githubusercontent.com/Yalideth-Sanchez-R/Yalideth-Sánchez-R/main/img_alkewallet.JPG" alt="Alke Wallet" width="300" />
       </a>
   </div>
 </details>
