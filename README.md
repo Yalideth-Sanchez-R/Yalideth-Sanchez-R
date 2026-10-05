@@ -48,12 +48,12 @@
 <div align="center">
   <!-- Tarjeta 1: Estadísticas Generales en Tiempo Real -->
   <a href="https://github.com/Yalideth-Sanchez-R" target="_blank">
-    <img src="https://vercel.app" alt="Estadísticas de GitHub de Yalideth" height="195" />
+    <img src="https://github-readme-stats.vercel.app" alt="Estadísticas de GitHub de Yalideth" height="195" />
   </a>
   
   <!-- Tarjeta 2: Lenguajes Más Usados (Versión Compacta) -->
   <a href="https://github.com/Yalideth-Sanchez-R" target="_blank">
-    <img src="https://vercel.app" alt="Lenguajes más usados" height="195" />
+    <img src="https://github-readme-stats.vercel.app" alt="Lenguajes más usados" height="195" />
   </a>
 </div>
 
